@@ -10,4 +10,4 @@ The goal of this project was to explore characteristic themes in Batman, as well
 * [batman_eda](https://github.com/wnobles/metis-finalproject-batmanthemes/blob/main/batman_eda.ipynb) notebook: exploratory data analysis and visualizations
 * [batman_sentiment analysis](https://github.com/wnobles/metis-finalproject-batmanthemes/blob/main/batman_sentiment_analysis.ipynb) notebook: sentiment analysis
 * [batman_topic_modeling](https://github.com/wnobles/metis-finalproject-batmanthemes/blob/main/batman_topic_modeling.ipynb) notebook: topic modeling for all Batman scenes and scenes from each director
-* [Final Project Presentation]((https://github.com/wnobles/metis-finalproject-batmanthemes/blob/main/batman_data_cleaning.ipynb)): final project presentation
+* [Final Project Presentation](https://github.com/wnobles/metis-finalproject-batmanthemes/blob/main/batman_data_cleaning.ipynb): final project presentation

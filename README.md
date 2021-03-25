@@ -6,7 +6,7 @@ The goal of this project was to explore characteristic themes in Batman, as well
 2. Used NLTK pipeline to process the text corpus of 825 scenes
 3. Ran topic modeling on the corpus using TF-IDF Vectorizer object for NMF
 ## Files Included
-batman_data_cleaning notebook: data cleaning and text preprocessing
-batman_topic_modeling notebook: topic modeling for all Batman scenes and scenes from each director
-batman_eda notebook: exploratory data analysis and visualizations
-batman_sentiment analysis notebook: sentiment analysis
+* [batman_data_cleaning notebook](https://github.com/wnobles/metis-finalproject-batmanthemes/blob/main/batman_data_cleaning.ipynb): data cleaning and text preprocessing
+* [batman_eda notebook](https://github.com/wnobles/metis-finalproject-batmanthemes/blob/main/batman_eda.ipynb): exploratory data analysis and visualizations
+* [batman_sentiment analysis notebook](https://github.com/wnobles/metis-finalproject-batmanthemes/blob/main/batman_sentiment_analysis.ipynb): sentiment analysis
+* [batman_topic_modeling notebook](https://github.com/wnobles/metis-finalproject-batmanthemes/blob/main/batman_topic_modeling.ipynb): topic modeling for all Batman scenes and scenes from each director
